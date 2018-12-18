@@ -1,0 +1,14 @@
+# テーマ
+theme : night
+highlight : ir-black
+layout : center
+
+# ふるまい
+transition : fade
+published : false
+loop : true
+controls-layout : edges
+
+# プラグイン設定
+charts : true
+mathjax : TeX-MML-AM_HTMLorMML-full
